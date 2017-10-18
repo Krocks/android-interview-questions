@@ -814,12 +814,14 @@ It is also a good practice to annotate overridden methods with `@Override` to ma
 * Android Code Style And Guidelines. [Mindorks](https://blog.mindorks.com/android-code-style-and-guidelines-d5f80453d5c7)
 * Have you tried Kotlin? [Medium](https://medium.com/p/why-you-must-try-kotlin-for-android-development-e14d00c8084b)
 * What are the metrics that you should measure continuously while android application development? [Mindorks](https://blog.mindorks.com/android-app-performance-metrics-a1176334186e)
-
+* Signing apk publishing, new app signing [Signing](https://developer.android.com/studio/publish/app-signing.html)
 
 ### Found this project useful :heart:
 * Support by clicking the :star: button on the upper right of this page. :v:
 
 [Check out Mindorks awesome open source projects here](https://mindorks.com/open-source-projects)
+
+
 
 
 ### License
