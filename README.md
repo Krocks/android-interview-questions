@@ -833,7 +833,7 @@ It is also a good practice to annotate overridden methods with `@Override` to ma
 * Android DRM overview, API, Providers [DRM](https://source.android.com/security/overview/app-security#digital-rights-management)
 * Android elements of app, Content-provider changed for manifest [link](https://source.android.com/security/overview/app-security#elements-of-applications)
 * FileSystem permission [link](https://source.android.com/security/overview/kernel-security#filesystem-permissions)
-* Interprocess communication [link}(https://source.android.com/security/overview/app-security#interprocess-communication)
+* Interprocess communication [link](https://source.android.com/security/overview/app-security#interprocess-communication)
 * Android Linux Security [link](https://source.android.com/security/overview/kernel-security#linux-security)
 * Android device password, cryptokeys [link](https://source.android.com/security/overview/kernel-security#password-protection)
 * Personal information [link](https://source.android.com/security/overview/app-security#personal-information)
