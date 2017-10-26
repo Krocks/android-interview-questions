@@ -826,7 +826,7 @@ It is also a good practice to annotate overridden methods with `@Override` to ma
 * App signing overview [link](https://source.android.com/security/overview/app-security#application-signing)
 * App verification 4.2+ [link](https://source.android.com/security/overview/app-security#app-verification)
 * User id for different aps and file permission, custom permission, URI permissions [link](https://developer.android.com/guide/topics/permissions/defining.html)
-* Cost sensitive API runtime(SMS/Call/Data/In-App-Billing)[https://source.android.com/security/overview/app-security#cost-sensitive-apis]
+* Cost sensitive API runtime [SMS/Call/Data/In-App-Billing](https://source.android.com/security/overview/app-security#cost-sensitive-apis)
 * Android cryptograpthy Api for AES, RSA + KeyChain after 4.2 [overview](https://source.android.com/security/overview/kernel-security#crypto)
 * Android device administrators [link](https://source.android.com/security/overview/kernel-security#device-administration)
 * Android device metadata access [link](https://source.android.com/security/overview/app-security#device-metadata)
