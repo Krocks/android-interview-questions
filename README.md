@@ -828,22 +828,22 @@ It is also a good practice to annotate overridden methods with `@Override` to ma
 * User id for different aps and file permission, custom permission, URI permissions [link](https://developer.android.com/guide/topics/permissions/defining.html)
 * Cost sensitive API runtime(SMS/Call/Data/In-App-Billing)[https://source.android.com/security/overview/app-security#cost-sensitive-apis]
 * Android cryptograpthy Api for AES, RSA + KeyChain after 4.2 [overview](https://source.android.com/security/overview/kernel-security#crypto)
-* Android device administrators (link)[https://source.android.com/security/overview/kernel-security#device-administration]
-* Android device metadata access (link)[https://source.android.com/security/overview/app-security#device-metadata]
-* Android DRM overview, API, Providers (DRM)[https://source.android.com/security/overview/app-security#digital-rights-management]
-* Android elements of app, Content-provider changed for manifest (link)[https://source.android.com/security/overview/app-security#elements-of-applications]
-* FileSystem permission (link)[https://source.android.com/security/overview/kernel-security#filesystem-permissions]
-* Interprocess communication (link)[https://source.android.com/security/overview/app-security#interprocess-communication]
-* Android Linux Security (link)[https://source.android.com/security/overview/kernel-security#linux-security]
-* Android device password, cryptokeys (link)[https://source.android.com/security/overview/kernel-security#password-protection]
-* Personal information (link)[https://source.android.com/security/overview/app-security#personal-information]
-* Rooting Device (link)[https://source.android.com/security/overview/kernel-security#rooting-devices]
-* Security Enchanted Linux (SELinux)[https://source.android.com/security/overview/kernel-security#se-linux] (Details 8.0)[https://source.android.com/security/selinux/images/SELinux_Treble.pdf]
-* Sensitive Data Input Device gps, microphone runtime permissions (link)[https://source.android.com/security/overview/app-security#sensitive-data-input-devices]
-* SIM card access (link)[https://source.android.com/security/overview/app-security#sim-card-access]
-* System particion and safe mode (link)[https://source.android.com/security/overview/kernel-security#system-partition-and-safe-mode]
-* Application sandbox (link)[https://source.android.com/security/overview/kernel-security#the-application-sandbox]
-* User security features (link)[https://source.android.com/security/overview/kernel-security#user-security] (file based encryption)[https://source.android.com/security/encryption/file-based]
+* Android device administrators [link](https://source.android.com/security/overview/kernel-security#device-administration)
+* Android device metadata access [link](https://source.android.com/security/overview/app-security#device-metadata)
+* Android DRM overview, API, Providers [DRM](https://source.android.com/security/overview/app-security#digital-rights-management)
+* Android elements of app, Content-provider changed for manifest [link](https://source.android.com/security/overview/app-security#elements-of-applications)
+* FileSystem permission [link](https://source.android.com/security/overview/kernel-security#filesystem-permissions)
+* Interprocess communication [link}(https://source.android.com/security/overview/app-security#interprocess-communication)
+* Android Linux Security [link](https://source.android.com/security/overview/kernel-security#linux-security)
+* Android device password, cryptokeys [link](https://source.android.com/security/overview/kernel-security#password-protection)
+* Personal information [link](https://source.android.com/security/overview/app-security#personal-information)
+* Rooting Device [link](https://source.android.com/security/overview/kernel-security#rooting-devices)
+* Security Enchanted Linux [SELinux](https://source.android.com/security/overview/kernel-security#se-linux) [Details 8.0](https://source.android.com/security/selinux/images/SELinux_Treble.pdf)
+* Sensitive Data Input Device gps, microphone runtime permissions [link](https://source.android.com/security/overview/app-security#sensitive-data-input-devices)
+* SIM card access [link](https://source.android.com/security/overview/app-security#sim-card-access)
+* System particion and safe mode [link](https://source.android.com/security/overview/kernel-security#system-partition-and-safe-mode)
+* Application sandbox [link](https://source.android.com/security/overview/kernel-security#the-application-sandbox)
+* User security features [link](https://source.android.com/security/overview/kernel-security#user-security) [file based encryption](https://source.android.com/security/encryption/file-based)
 
 
 
