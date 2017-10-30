@@ -844,7 +844,17 @@ It is also a good practice to annotate overridden methods with `@Override` to ma
 * System particion and safe mode [link](https://source.android.com/security/overview/kernel-security#system-partition-and-safe-mode)
 * Application sandbox [link](https://source.android.com/security/overview/kernel-security#the-application-sandbox)
 * User security features [link](https://source.android.com/security/overview/kernel-security#user-security) [file based encryption](https://source.android.com/security/encryption/file-based)
-
+* Change Encryption Password [link](https://source.android.com/security/encryption/full-disk#changing_the_password)
+* Encrypt new device with ForceEncrypt [link](https://source.android.com/security/encryption/full-disk#encrypt_a_new_device_with_forceencrypt)
+* Encrypt existing device [link](https://source.android.com/security/encryption/full-disk#encrypt_an_existing_device)
+* Encryption properties [link](https://source.android.com/security/encryption/full-disk#encryption_properties)
+* How android encryption works [link](https://source.android.com/security/encryption/full-disk#how_android_encryption_works)
+* Starting encrypted device with default encryption [link](https://source.android.com/security/encryption/full-disk#starting_an_encrypted_device_with_default_encryption)
+* Started encrypted device without default encryption [link](https://source.android.com/security/encryption/full-disk#starting_an_encrypted_device_without_default_encryption)
+* Storing encrypted key [link](https://source.android.com/security/encryption/full-disk#storing_the_encrypted_key)
+* Development process and produc implementation [link](https://source.android.com/security/overview/implement#dev-process)
+* Device administration [link](https://developer.android.com/guide/topics/admin/device-admin.html)
+* Bouncy castle and JAVA crypto api [Bouncy Castle](https://www.bouncycastle.org),[Crypto API](https://www.cryptoworkshop.com/guide/cwguide-070313.pdf)
 
 
 ### License
