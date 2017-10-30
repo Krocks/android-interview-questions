@@ -857,6 +857,24 @@ It is also a good practice to annotate overridden methods with `@Override` to ma
 * Bouncy castle and JAVA crypto api [Bouncy Castle](https://www.bouncycastle.org),[Crypto API](https://www.cryptoworkshop.com/guide/cwguide-070313.pdf)
 
 
+### TOOLS
+* Support library [link](https://developer.android.com/topic/libraries/support-library/features.html)
+* Tools overview [link](https://developer.android.com/studio/command-line/index.html)
+* Testing application [link](https://developer.android.com/studio/test/index.html)
+* Systrace [link](https://developer.android.com/studio/command-line/systrace.html)
+* SDK manager [link](https://developer.android.com/studio/intro/update.html)
+* Logcat [link](https://developer.android.com/studio/command-line/logcat.html)
+* Lint [link](https://developer.android.com/studio/write/lint.html)
+* Hyerarchy viewer [link](https://developer.android.com/studio/profile/hierarchy-viewer.html)
+* 9Patch [link](https://developer.android.com/studio/write/draw9patch.html)
+* Debuger [link](https://developer.android.com/studio/debug/index.html)
+* ADB [link](https://developer.android.com/studio/command-line/adb.html)
+* ProGuard [link](https://developer.android.com/studio/build/shrink-code.html)
+
+
+### DI
+* ButterKnife [link](https://jakewharton.github.io/butterknife/)
+
 ### License
 ```
    Copyright (C) 2017 MINDORKS NEXTGEN PRIVATE LIMITED
