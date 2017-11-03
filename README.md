@@ -883,8 +883,13 @@ It is also a good practice to annotate overridden methods with `@Override` to ma
 ### Runtime
 * ART vs Dalvik [link](https://source.android.com/devices/tech/dalvik/), [link2](https://stackoverflow.com/questions/31957568/what-is-difference-between-dvm-and-art-why-dvm-has-been-officially-replaced-wi)
 
-
-
+### Storage
+* External storage, External Cache Dir [link](https://developer.android.com/reference/android/content/Context.html#getExternalCacheDir())
+* Internal Storage, Files [link](https://developer.android.com/guide/topics/data/data-storage.html#filesInternal)
+* Internal Storage, Internal Cache Dir [link](https://developer.android.com/reference/android/content/Context.html#getCacheDir())
+* Shared preferences [link](https://developer.android.com/guide/topics/data/data-storage.html#pref)
+* SQLite [general](https://developer.android.com/guide/topics/data/data-storage.html#db), [limitation](https://www.sqlite.org/limits.html)
+* Android BackUp [link](https://developer.android.com/guide/topics/data/backup.html)
 
 ### License
 ```
