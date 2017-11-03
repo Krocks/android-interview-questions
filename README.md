@@ -874,6 +874,17 @@ It is also a good practice to annotate overridden methods with `@Override` to ma
 
 ### DI
 * ButterKnife [link](https://jakewharton.github.io/butterknife/)
+* Dagger 2 [link](https://google.github.io/dagger/)
+
+### CrashReporting
+* ACRA [link](https://github.com/ACRA/acra)
+* Crashlitics [link](http://try.crashlytics.com)
+
+### Runtime
+* ART vs Dalvik [link](https://source.android.com/devices/tech/dalvik/), [link2](https://stackoverflow.com/questions/31957568/what-is-difference-between-dvm-and-art-why-dvm-has-been-officially-replaced-wi)
+
+
+
 
 ### License
 ```
