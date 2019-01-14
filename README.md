@@ -750,6 +750,12 @@ It is also a good practice to annotate overridden methods with `@Override` to ma
 * How to reduce battery usage in an android application? [Mindorks](https://blog.mindorks.com/battery-optimization-for-android-apps-f4ef6170ff70)
 * What is `SnapHelper`? [Mindorks](https://blog.mindorks.com/using-snaphelper-in-recyclerview-fc616b6833e8)
 * How to handle multi-touch in android [GitHub](https://arjun-sna.github.io/android/2016/07/20/multi-touch-android/)
+* Doze vs app Standby [link](https://developer.android.com/training/monitoring-device-state/doze-standby)
+* Job schedule [shedulling jobs inteligently](https://developer.android.com/topic/performance/scheduling)* Alarm manager [shedulling jobs inteligently](https://developer.android.com/topic/performance/scheduling),[details]
+(https://developer.android.com/reference/android/app/AlarmManager)
+* GCM network manager [deprecated already](https://developers.google.com/cloud-messaging/network-manager)
+* FirebaseJobDispatcher [link](https://github.com/firebase/firebase-jobdispatcher-android#user-content-firebase-jobdispatcher-)
+* WorkManager [general](https://developer.android.com/topic/libraries/architecture/workmanager/), [Basics](https://developer.android.com/topic/libraries/architecture/workmanager/basics)
 
 
 ### Architecture
