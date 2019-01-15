@@ -228,6 +228,9 @@
     - Depth First Search
  * Greedy Algorithm
 
+###SDLC
+* Scrum vs Kanban (link)[https://netology.ru/blog/scrum-kanban]
+
 
 ### Core Java
 
